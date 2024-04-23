@@ -8,7 +8,7 @@
 
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 - 💻 Estou procurando ingressar na área de tecnologia!
-- 📂 Cursando o programa Entra21 na linguagem Java
+- 📂 Formado no programa Entra21 na linguagem Java
 
 ## Ferramentas e Tecnologias
 
