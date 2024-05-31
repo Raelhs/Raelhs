@@ -7,7 +7,7 @@
 # Olá, me chamo Rael!
 
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
-- 💻 Estou procurando ingressar na área de tecnologia!
+- 💻 Atualmente atuo como suporte N1 AWS!
 - 📂 Formado no programa Entra21 na linguagem Java
 
 ## Ferramentas e Tecnologias
