@@ -6,9 +6,7 @@
 
 # Olá, me chamo Rael!
 
-- 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
-- 💻 Atualmente atuo como suporte N1 AWS!
-- 📂 Formado no programa Entra21 na linguagem Java
+- 💻 Atualmente atuo como DATA AI ML Assistant!
 
 ## Ferramentas e Tecnologias
 
